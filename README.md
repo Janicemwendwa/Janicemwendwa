@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-## 🔭 I’m currently working on completing my software engineering program
-## 🌱 I’m currently learning Python, JavaScript, CSS, React, HTML, Django
-## 📫 How to reach me: https://x.com/MwendwaJanice www.linkedin.com/in/janicemwendwa
-## 😄 Pronouns: she/her
+-🔭 I’m currently working on completing my software engineering program
+-🌱 I’m currently learning Python, JavaScript, CSS, React, HTML, Django
+-📫 How to reach me: https://x.com/MwendwaJanice www.linkedin.com/in/janicemwendwa
+- 😄 Pronouns: she/her
 -->
