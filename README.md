@@ -63,6 +63,5 @@ My goal is to become a skilled, reliable software engineer capable of contributi
 
 
 
-👨🏼‍🤝‍👨🏻pronouns: she/her
 
 
